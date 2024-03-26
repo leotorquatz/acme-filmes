@@ -7,5 +7,5 @@ Protótipo | FRONT-END | Landing Page | CRM
 
 
  [link1]: https://www.figma.com/file/PoEuhiZuvttxvQGvswNAdo/Untitled?type=design&node-id=0-1&mode=design&t=0XfAUQsiGjcConVq-0
- [link2]: https://github.com/leotorquatz/acme-filmes.git
- [link3]: https://leotorquatz.github.io/acme-filmes/
+ [link2]: https://github.com/leotorquatz/ACME-Filme.git
+ [link3]: https://leotorquatz.github.io/ACME-Filme/
